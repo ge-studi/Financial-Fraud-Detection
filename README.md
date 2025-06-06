@@ -7,7 +7,7 @@ This project is a **Streamlit web app** that detects fraudulent financial transa
 
 We use a synthetic financial transactions dataset (`financial_fraud_detection.csv`) with the following features:
 
-`step`: Hour of transaction
+- `step`: Hour of transaction
 - `type`: Type of transaction
 - `amount`: Amount involved
 - `oldbalanceOrg`: Sender’s balance before
